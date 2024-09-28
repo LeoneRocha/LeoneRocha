@@ -18,7 +18,7 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 
  ## 📜 Certifications
 
-- AZ-900: Microsoft Azure Fundamentals (2022) [Check here]([https://smartdigitalpsicoapi.azurewebsites.net](https://learn.microsoft.com/api/credentials/share/pt-br/LeoneRocha-4937/2DADE8788480B850?sharingId=9AB8F81F688EA53C))  
+- AZ-900: Microsoft Azure Fundamentals (2022) 
 - 70-515: Microsoft Web Applications Development with Microsoft .NET Framework 4 (2012)
 - 98-361: Microsoft MTA Software Development Fundamentals (2012)
 
@@ -34,3 +34,6 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 - **LinkedIn:** [![Linkedin Badge](https://img.shields.io/badge/-Leone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leone-costa-rocha-14049722)](https://www.linkedin.com/in/leone-costa-rocha-14049722) 
 
 - **Gmail:** [![Gmail Badge](https://img.shields.io/badge/-leonecrocha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonecrocha@gmail.com)](mailto:leonecrocha@gmail.com)
+
+
+[Check here]([https://smartdigitalpsicoapi.azurewebsites.net](https://learn.microsoft.com/api/credentials/share/pt-br/LeoneRocha-4937/2DADE8788480B850?sharingId=9AB8F81F688EA53C))  
