@@ -1,5 +1,7 @@
 # 💼 Curriculum  
 
+## 👨‍💻 Sobre
+
 Developer with considerable experience in Microsoft technologies, .NET, databases, front end technologies, cloud, design patterns and agile methodologies.
 
 ## 🛠️ Technical Skills
