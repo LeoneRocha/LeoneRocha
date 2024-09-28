@@ -1,4 +1,4 @@
-# 💼 Web and Desktop Applications Developer
+# 💼 Curriculum  
 
 Developer with considerable experience in Microsoft technologies, .NET, databases, front end technologies, cloud, design patterns and agile methodologies.
 
@@ -20,7 +20,7 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 - **Brazilian Portuguese:** Native.
 
 ---
-# 💼 Desenvolvedor de Aplicações Web e Desktop
+# 💼 Curriculum 
 
 ## 👨‍💻 Sobre
 
