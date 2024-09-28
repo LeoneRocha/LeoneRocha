@@ -15,7 +15,7 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 - **DevOps:** CI/CD, Azure DevOps.
 - **Cloud:** Docker, Web Jobs in Azure, Web API in Azure.
 - **Source Control:** Git, SVN.
-- **Others:** IIS, Docker, Cloud Azure, API REST FULL, GitHub Copilot (beginner), Development PaaS in Azure.
+- **Others:** IIS, Cloud Azure, API REST FULL, GitHub Copilot (beginner), Development PaaS in Azure.
 
  ## 📜 Certifications
 
