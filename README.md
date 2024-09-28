@@ -32,7 +32,7 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 - **Email:** leocr_lem@yahoo.com.br
 - **LinkedIn:** Your LinkedIn Profile
 
-[![Linkedin Badge](https://img.shields.io/badge/-Leone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leone-costa-rocha-14049722)](https://www.linkedin.com/in/leone-costa-rocha-14049722) 
+LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Leone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leone-costa-rocha-14049722)](https://www.linkedin.com/in/leone-costa-rocha-14049722) 
 
 Gmail: [![Gmail Badge](https://img.shields.io/badge/-leonecrocha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonecrocha@gmail.com)](mailto:leonecrocha@gmail.com)
   
