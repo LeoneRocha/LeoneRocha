@@ -1,6 +1,6 @@
 # Desenvolvedor de Aplicações Web e Desktop
 
-Desenvolvedor de aplicações web e desktop com mais de 10 anos de experiência em tecnologias Microsoft, como ASP e .NET. Trabalhei por 5 anos desenvolvendo sistemas para o setor de turismo e 5 anos apoiando e mantendo sistemas para uma empresa de seguros e atualmente no setor de pesquisa e mídia. Tenho habilidades em .NET, C#, .NET Core, Web API, JavaScript, CSS e desenvolvimento na plataforma Microsoft Azure. Sou ágil na aprendizagem de novas tecnologias e tenho experiência com metodologias ágeis como Scrum e Kanban.
+Desenvolvedor com bom tempo de experiência em tecnologias Microsoft, .NET, banco de dados, tecnologias de front end, cloud, padrões de projeto e metodologias ágeis.
 
 ## 🛠️ Habilidades Técnicas
 
@@ -23,7 +23,7 @@ Desenvolvedor de aplicações web e desktop com mais de 10 anos de experiência 
 
 # Web and Desktop Applications Developer
 
-Web and desktop applications developer with more than 10 years of experience in Microsoft technologies, such as ASP and .NET. I worked for 5 years developing systems for the tourism sector and 5 years supporting and maintaining systems for an insurance company and currently in the research and media sector. I have skills in .NET, C#, .NET Core, Web API, JavaScript, CSS and development on the Microsoft Azure platform. I am agile in learning new technologies and have experience with agile methodologies such as Scrum and Kanban.
+Developer with considerable experience in Microsoft technologies, .NET, databases, front end technologies, cloud, design patterns and agile methodologies.
 
 ## 🛠️ Technical Skills
 
