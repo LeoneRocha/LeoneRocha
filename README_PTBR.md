@@ -12,7 +12,7 @@ Desenvolvedor com bom tempo de experiência em tecnologias Microsoft, .NET, banc
 - **Testes:** Unit Test (MSTest, NUnit, Moq), TDD.
 - **IDE:** Visual Studio, Visual Studio Code.
 - **DevOps:** CI/CD, Azure DevOps, SonarCloud, Snyk.
-- **Cloud:** Web Jobs no Azure, Web API no Azure.
+- **Cloud:** Docker,Web Jobs no Azure, Web API no Azure.
 - **Controle de Versão:** Git, SVN.
 - **Outros:** IIS, Docker, Cloud Azure, API REST FULL, GitHub Copilot (beginner) , Development PaaS in Azure.
 
