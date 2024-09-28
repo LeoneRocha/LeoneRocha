@@ -15,8 +15,24 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 - **Cloud:** Docker, Web Jobs in Azure, Web API in Azure.
 - **Source Control:** Git, SVN.
 - **Others:** IIS, Docker, Cloud Azure, API REST FULL, GitHub Copilot (beginner), Development PaaS in Azure.
- 
+
+ ## 📜 Certifications
+
+- Microsoft Certified: Azure Developer Associate
+- Microsoft Certified: Azure Solutions Architect Expert
+- Certified ScrumMaster (CSM)
+
 ## 🌐 Languages
 
 - **English:** Basic for reading.
 - **Brazilian Portuguese:** Native.
+
+## 📞 Contact
+
+- **Email:** leocr_lem@yahoo.com.br
+- **LinkedIn:** Your LinkedIn Profile
+
+[![Linkedin Badge](https://img.shields.io/badge/-Leone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leone-costa-rocha-14049722)](https://www.linkedin.com/in/leone-costa-rocha-14049722) 
+
+Gmail: [![Gmail Badge](https://img.shields.io/badge/-leonecrocha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonecrocha@gmail.com)](mailto:leonecrocha@gmail.com)
+  
