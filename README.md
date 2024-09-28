@@ -27,6 +27,14 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 - **English:** Basic for reading.
 - **Brazilian Portuguese:** Native.
 
+## 📂 Projects
+
+### 📂 Lab 1
+
+- **About:**  
+- **Technical:** leocr_lem@yahoo.com.br
+- **Links:**  [Check here](https://learn.microsoft.com/api/credentials/share/pt-br/LeoneRocha-4937/2DADE8788480B850?sharingId=9AB8F81F688EA53C)
+
 ## 📞 Contact
 
 - **Email:** leocr_lem@yahoo.com.br
