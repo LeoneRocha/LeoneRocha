@@ -6,17 +6,17 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 
 ## 🛠️ Technical Skills
 
-- **Dev Technologies:** ASP.NET, C#, VB.NET, JSON, XML, .NET CORE, API.NET, ORMs (Entity Framework, Dapper), ADO.NET, ASP classic, ASP.NET Web Services (ASMX), WCF, MVC, HTML, JavaScript, jQuery, AJAX, CSS, Bootstrap, AngularJS, React JS, TypeScript, .NET 8, WEB API, REST, Unit Test (MSTest, NUnit, Moq, Code Coverage), Azure WebJob, Windows Services.
-- **Database Technologies:** SQL Server, ANSI SQL, MySQL.
-- **Servers:** Internet Information Services (IIS), Docker container.
-- **IDE:** Microsoft Visual Studio, Visual Studio Code, others: Cloud Windows Azure, Development PaaS in Azure.
-- **Source Control:** Azure DevOps Server, TFS, GIT, SVN.
-- **Operating Systems:** WINDOWS.
-- **Others:** DevSecOps (CI/CD, Azure DevOps, SonarCloud, Snyk), GitHub Copilot (beginner).
-- **Development Methodologies:** TDD, WEB API, API REST FULL.
-- **Functional Methodologies:** Agile Methodologies (Scrum).
-
-## 🛠️ Technical Skills
+- **Development:**
+  C#, VB.NET, .NET 8, ASP.NET (Webform, MVC), Web API (REST), Web Services (ASMX, WCF), JSON, XML, ORMs (Entity Framework, Dapper), ADO.NET, Windows Services.
+- **Database:** SQL Server, ANSI SQL, MySQL.
+- **Frontend:** HTML, JavaScript, CSS, Bootstrap, Angular, React, TypeScript, jQuery, AJAX.
+- **Testing:** Unit Test (MSTest, NUnit, Moq), TDD.
+- **IDE:** Visual Studio, Visual Studio Code.
+- **DevSecOps:** CI/CD, Azure DevOps, SonarCloud, Snyk.
+- **Cloud:** Web Jobs in Azure, Web API in Azure.
+- **Source Control:** Git, SVN.
+- **Others:** IIS, Docker, Cloud Azure, API REST FULL, GitHub Copilot (beginner), Development PaaS in Azure.
+ 
 
 ## 🌐 Languages
 
@@ -32,15 +32,15 @@ Desenvolvedor com bom tempo de experiência em tecnologias Microsoft, .NET, banc
 
 ## 🛠️ Habilidades Técnicas
 
-- **Tecnologias de Desenvolvimento:** ASP.NET, C#, VB.NET, JSON, XML, .NET CORE, API.NET, ORMs (Entity Framework, Dapper), ADO.NET, ASP clássico, ASP.NET Web Services (ASMX), WCF, MVC, HTML, JavaScript, jQuery, AJAX, CSS, Bootstrap, AngularJS, React JS, TypeScript, .NET 8, WEB API, REST, Testes Unitários (MSTest, NUnit, Moq, Code Coverage), Azure WebJob, Windows Services.
-- **Tecnologias de Banco de Dados:** SQL Server, ANSI SQL, MySQL.
-- **Servidores:** Internet Information Services (IIS), Docker container.
-- **IDE:** Microsoft Visual Studio, Visual Studio Code, outros: Cloud Windows Azure, Desenvolvimento PaaS no Azure.
-- **Controle de Versão:** Azure DevOps Server, TFS, GIT, SVN.
-- **Sistemas Operacionais:** WINDOWS.
-- **Outros:** DevSecOps (CI/CD, Azure DevOps, SonarCloud, Snyk), GitHub Copilot (iniciante).
-- **Metodologias de Desenvolvimento:** TDD, WEB API, API REST FULL.
-- **Metodologias Funcionais:** Metodologias Ágeis (Scrum).
+- **Desenvolvimento:** C# , VB.NET, .NET 8, ASP.NET (Webform, MVC), Web API (REST), Web Services (ASMX, WCF), JSON, XML, ORMs (Entity Framework, Dapper), ADO.NET, Windows Services.
+- **Banco de Dados:** SQL Server, ANSI SQL, MySQL.
+- **Frontend:** HTML, JavaScript, CSS, Bootstrap, Angular, React, TypeScript, jQuery, AJAX 
+- **Testes:** Unit Test (MSTest, NUnit, Moq), TDD.
+- **IDE:** Visual Studio, Visual Studio Code.
+- **DevSecOps:** CI/CD, Azure DevOps, SonarCloud, Snyk.
+- **Cloud:** Web Jobs no Azure, Web API no Azure.
+- **Controle de Versão:** Git, SVN.
+- **Outros:** IIS, Docker, Cloud Azure, API REST FULL, GitHub Copilot (beginner) , Development PaaS in Azure.
 
 ## 🌐 Idiomas
 
