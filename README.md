@@ -32,9 +32,9 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 
 ### 📂 Lab 1
 
-- **About:**  
-- **Technical:** leocr_lem@yahoo.com.br
-- **Links:**  [Check here](https://learn.microsoft.com/api/credentials/share/pt-br/LeoneRocha-4937/2DADE8788480B850?sharingId=9AB8F81F688EA53C)
+- **About:** Psychology Patient Registry. Digital medical record
+- **Technical:** FrontEnd: (TypeScript, Angular, Node.js, Bootstrap), Backend: (C#, .Net Core 8 , Entity Framework Core, MySql/SQL SErver, Swagger)
+- **Links:** [Backend](https://smartdigitalpsicoapi.azurewebsites.net/swagger/index.html) , [FrontEnd](https://smartdigitalpsicoui.azurewebsites.net/authpages/login)
 
 ## 📞 Contact
 
