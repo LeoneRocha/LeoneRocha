@@ -7,7 +7,7 @@ Desenvolvedor com bom tempo de experiência em tecnologias Microsoft, .NET, banc
 ## 🛠️ Habilidades Técnicas
 
 - **Desenvolvimento:** C# , VB.NET, .NET 8, ASP.NET (Webform, MVC), Web API (REST), Web Services (ASMX, WCF), JSON, XML, ORMs (Entity Framework, Dapper), ADO.NET, Windows Services.
-- **Banco de Dados:** SQL Server, ANSI SQL, MySQL.
+- **Banco de Dados:** SQL Server, MySQL, ANSI SQL.
 - **Frontend:** HTML, JavaScript, CSS, Bootstrap, Angular, React, TypeScript, jQuery, AJAX 
 - **Testes:** Unit Test (MSTest, NUnit, Moq), TDD.
 - **IDE:** Visual Studio, Visual Studio Code.
