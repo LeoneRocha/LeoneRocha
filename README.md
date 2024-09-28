@@ -18,7 +18,7 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 
  ## 📜 Certifications
 
-- AZ-900: Microsoft Azure Fundamentals (2022)  
+- AZ-900: Microsoft Azure Fundamentals (2022) [Check here]([https://smartdigitalpsicoapi.azurewebsites.net](https://learn.microsoft.com/api/credentials/share/pt-br/LeoneRocha-4937/2DADE8788480B850?sharingId=9AB8F81F688EA53C))  
 - 70-515: Microsoft Web Applications Development with Microsoft .NET Framework 4 (2012)
 - 98-361: Microsoft MTA Software Development Fundamentals (2012)
 
