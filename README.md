@@ -16,6 +16,8 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 - **Development Methodologies:** TDD, WEB API, API REST FULL.
 - **Functional Methodologies:** Agile Methodologies (Scrum).
 
+## 🛠️ Technical Skills
+
 ## 🌐 Languages
 
 - **English:** Basic for reading.
