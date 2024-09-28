@@ -30,7 +30,7 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 
 ## 📂 Projects
 
-### 📂 Lab 1
+### ⚙️ Lab 1
 
 - **About:** Psychology Patient Registry. Digital medical record
 - **Technical:** FrontEnd: (TypeScript, Angular, Node.js, Bootstrap), Backend: (C#, .Net Core 8 , Entity Framework Core, MySql/SQL Server, Swagger)
