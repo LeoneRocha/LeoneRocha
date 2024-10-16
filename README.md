@@ -29,14 +29,14 @@ Developer with considerable experience in Microsoft technologies, .NET, database
  &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL">
 &nbsp;&nbsp;&nbsp;&nbsp;
+ <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript">
+&nbsp;&nbsp;&nbsp;&nbsp; 
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript">
+&nbsp;&nbsp;&nbsp;&nbsp; 
 <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" title="Angular">
  &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React">
  &nbsp;&nbsp;&nbsp;&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript">
-&nbsp;&nbsp;&nbsp;&nbsp; 
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript">
-&nbsp;&nbsp;&nbsp;&nbsp; 
 <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" title="Bootstrap">
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code">
