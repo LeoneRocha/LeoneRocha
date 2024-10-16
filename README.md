@@ -38,6 +38,13 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 - **Source:** [Backend](https://github.com/LeoneRocha/SmartDigitalPsicoAPI) , [FrontEnd](https://github.com/LeoneRocha/SmartDigitalPsicoUIDashboard)
 - **DevOps:** [Azure](https://lionscorp.visualstudio.com/SMARTDIGITALPSICO) 
 
+## 📊 Statistics 
+
+
+<a href="https://github.com/LeoneRocha"><img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=LeoneRocha&show_icons=true&theme=dark"></a>
+<a href="https://github.com/LeoneRocha"><img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoneRocha&layout=compact&theme=dark"></a>
+
+
 ## 📞 Contact
 
 - **Email:** leocr_lem@yahoo.com.br
