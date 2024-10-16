@@ -15,7 +15,7 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 - **DevOps:** CI/CD, Azure DevOps.
 - **Cloud:** Docker, Web Jobs in Azure, Web API in Azure.
 - **Source Control:** Git, SVN.
-- **Others:** IIS, Cloud Azure, API REST FULL, GitHub Copilot (beginner), Development PaaS in Azure.
+- **Others:** NPM,IIS, Cloud Azure, API REST FULL, GitHub Copilot (beginner), Development PaaS in Azure.
 
 <div style="display: inline-block;line-height:60px;">
  &nbsp;&nbsp;&nbsp;&nbsp;
@@ -34,12 +34,8 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React">
  &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js">
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; 
 <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" title="Bootstrap">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" title="NPM">
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code">
 &nbsp;&nbsp;&nbsp;&nbsp;
