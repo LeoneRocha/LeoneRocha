@@ -18,7 +18,7 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 - **Others:** IIS, Cloud Azure, API REST FULL, GitHub Copilot (beginner), Development PaaS in Azure.
 
 <div style="display: inline-block;line-height:60px;">
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap">
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
 &nbsp;&nbsp;&nbsp;&nbsp;
