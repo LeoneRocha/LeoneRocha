@@ -74,11 +74,7 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 
 <a href="https://github.com/LeoneRocha"><img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=LeoneRocha&show_icons=true&theme=dark"></a>
 <a href="https://github.com/LeoneRocha"><img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoneRocha&layout=compact&theme=dark"></a>
-
-## Tecnologias uso no dia a dia 👨🏽‍💻
-
-
-
+ 
 ## 📞 Contact
 
 - **Email:** leocr_lem@yahoo.com.br
