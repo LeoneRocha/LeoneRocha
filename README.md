@@ -33,8 +33,6 @@ Developer with considerable experience in Microsoft technologies, .NET, database
  &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="JQuery">
-&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap">
