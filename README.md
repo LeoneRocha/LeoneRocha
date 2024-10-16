@@ -19,7 +19,7 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 
 <div style="display: inline-block;line-height:60px;">
  &nbsp;&nbsp;&nbsp;&nbsp;
- <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dot net core" title="Dot Net">
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dot net core" title="Dot Net">
  &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dot net core" title="Dot Net Core">
  &nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,7 +33,7 @@ Developer with considerable experience in Microsoft technologies, .NET, database
  &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React">
  &nbsp;&nbsp;&nbsp;&nbsp;
- <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript">
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript">
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript">
 &nbsp;&nbsp;&nbsp;&nbsp; 
