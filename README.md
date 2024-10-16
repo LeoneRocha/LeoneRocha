@@ -19,7 +19,7 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 
 <div style="display: inline-block;line-height:60px;">
  &nbsp;&nbsp;&nbsp;&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="JavaScript">
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="JavaScript">
  &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap">
 &nbsp;&nbsp;&nbsp;&nbsp;
