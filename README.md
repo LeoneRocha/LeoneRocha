@@ -42,10 +42,10 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio">
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; 
 <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps">
+ &nbsp;&nbsp;&nbsp;&nbsp; 
+<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
 </div>
 
  ## 📜 Certifications
