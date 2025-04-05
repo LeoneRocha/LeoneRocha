@@ -72,6 +72,27 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 - **Source:** [Backend](https://github.com/LeoneRocha/SmartDigitalPsicoAPI) , [FrontEnd](https://github.com/LeoneRocha/SmartDigitalPsicoUIDashboard)
 - **DevOps:** [Azure](https://lionscorp.visualstudio.com/SMARTDIGITALPSICO) 
 
+### ⚙️ Lab 2
+
+- **About:** Hotel system that manages hotel registration, rooms, availability, and pricing, integrating AI (Semantic Search Kernel and Mistral Inference), Qdrant for semantic search, and payment API integration.
+- **Technologies:**  
+  - **Frontend:** React, Vite, Bootstrap, TypeScript  
+  - **Backend:** Node.js, Nginx Server  
+  - **DevOps Tools:** GitHub, Azure DevOps, SonarCloud, Docker Hub, Azure Cloud  
+  - **Testing:** JEST  
+  - **Other Technologies:** Qdrant, Mistral Inference
+- **Links:**  
+  - **Frontend:** [HotelWise UI](https://hotelwiseui-f7a7b5gqf0amdfdg.brazilsouth-01.azurewebsites.net/)  
+  - **API:** [HotelWise API](https://hotelwiseapi-hbcca8d5a7fae7hp.brazilsouth-01.azurewebsites.net/swagger/index.html)
+- **Source Code:**  
+  - [Backend API](https://github.com/LeoneRocha/HotelWiseAPI)  
+  - [Frontend](https://github.com/LeoneRocha/HotelWiseUI)
+- **SonarCloud:**  
+  - [HotelWise UI](https://sonarcloud.io/project/branches_list?id=lionscorp_hotelwiseui)  
+  - [HotelWise API](https://sonarcloud.io/project/overview?id=lionscorp_hotelwiseapi)
+- **DevOps Pipeline:**  
+  - [Build Pipeline](https://lionscorp.visualstudio.com/VariousStudies/_build)  
+
 ## 📊 Statistics 
 
 
