@@ -78,7 +78,7 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 - **Technical:** Frontend: React, Vite, Bootstrap, TypeScript. | Backend: Node.js, Nginx Server | DevOps Tools: GitHub, Azure DevOps, SonarCloud, Docker Hub, Azure Cloud | Testing: JEST | Other Technologies: Qdrant, Mistral Inference
 - **Links:** [Backend](https://hotelwiseapi-hbcca8d5a7fae7hp.brazilsouth-01.azurewebsites.net/swagger/index.html) |  [Frontend](https://hotelwiseui-f7a7b5gqf0amdfdg.brazilsouth-01.azurewebsites.net/)  
 - **Source Code:** [Backend](https://github.com/LeoneRocha/HotelWiseAPI) | [Frontend](https://github.com/LeoneRocha/HotelWiseUI) 
-- **SonarCloud:** [Backend](https://sonarcloud.io/project/overview?id=lionscorp_hotelwiseapi) | [Frontend](https://sonarcloud.io/project/branches_list?id=lionscorp_hotelwiseui) 
+- **SonarCloud:** [Backend](https://sonarcloud.io/summary/new_code?id=lionscorp_hotelwiseapi&branch=master) | [Frontend](https://sonarcloud.io/summary/new_code?id=lionscorp_hotelwiseui&branch=master) 
 - **DevOps Pipeline:** [Azure](https://lionscorp.visualstudio.com/VariousStudies/_build)  
 
 ## 📊 Statistics 
