@@ -17,41 +17,41 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 - **Source Control:** Git, SVN.
 - **Others:** NPM,IIS, Cloud Azure, API Rest Full, GitHub Copilot (beginner), Development PaaS in Azure.
 
-<div style="display: inline-block;line-height:60px;">
- &nbsp;&nbsp;&nbsp;&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dot net core" title="Dot Net">
- &nbsp;&nbsp;&nbsp;&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dot net core" title="Dot Net Core">
- &nbsp;&nbsp;&nbsp;&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#">
- &nbsp;&nbsp;&nbsp;&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL Azure" title="SQL Azure">
- &nbsp;&nbsp;&nbsp;&nbsp;
- <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" title="SQL Server">
- &nbsp;&nbsp;&nbsp;&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript">
-&nbsp;&nbsp;&nbsp;&nbsp; 
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript">
-&nbsp;&nbsp;&nbsp;&nbsp;  
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" title="Bootstrap">
-&nbsp;&nbsp;&nbsp;&nbsp; 
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" title="Angular">
- &nbsp;&nbsp;&nbsp;&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React">
- &nbsp;&nbsp;&nbsp;&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio">
-&nbsp;&nbsp;&nbsp;&nbsp; 
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git">
- &nbsp;&nbsp;&nbsp;&nbsp;  
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" title="Azure DevOps">
- &nbsp;&nbsp;&nbsp;&nbsp; 
-<img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker">
- &nbsp;&nbsp;&nbsp;&nbsp; 
+<div style="display: inline-block; line-height: 60px;">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dot net core" title="Dot Net">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dot net core" title="Dot Net Core">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" title="C#">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL Azure" title="SQL Azure">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" title="SQL Server">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" title="Bootstrap">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" title="Angular">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" title="Azure DevOps">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker">
 </div>
+
 
  ## 📜 Certifications
 
