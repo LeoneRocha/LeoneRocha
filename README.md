@@ -70,7 +70,7 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 
 - **About:** Psychology Patient Registry. Digital medical record
 - **Technical:** FrontEnd: (TypeScript, Angular, Node.js, Bootstrap), Backend: (C#, .Net Core 8 , Entity Framework Core, MySql/SQL Server, Swagger)
-- **Links:** [Backend](https://smartdigitalpsicoapi.azurewebsites.net/swagger/index.html) , [FrontEnd](https://smartdigitalpsicoui-d4e0bbcfaabrava8.brazilsouth-01.azurewebsites.net/)
+- **Links:** [Backend](https://smartdigitalpsicoapi.azurewebsites.net/swagger/index.html) , [FrontEnd](https://smartdigitalpsicoui.azurewebsites.net/)
 - **Source:** [Backend](https://github.com/LeoneRocha/SmartDigitalPsicoAPI) , [FrontEnd](https://github.com/LeoneRocha/SmartDigitalPsicoUIDashboard)
 - **DevOps:** [Azure](https://lionscorp.visualstudio.com/SMARTDIGITALPSICO) 
 
