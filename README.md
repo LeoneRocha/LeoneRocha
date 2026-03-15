@@ -88,13 +88,13 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 - **About:** A centralized hub project for reusable features and modular code, designed with a clean, extensible, and scalable architecture. The proposal is to consolidate reusable modules exposed through REST APIs and SDK/NuGet packages, starting with language and internationalization capabilities and evolving into new modules such as scheduling, payment systems, AI integrations, and other cross-application services.
 - **Technical:** Frontend: (Angular, TypeScript, Angular Material) | Backend: (C#, .NET 8, ASP.NET Core, Entity Framework Core, JWT, Swagger) | DevOps Tools: (Azure DevOps, Docker, Docker Compose, DevContainers) | Database: (MySQL, prepared for PostgreSQL and SQL Server support) | Other Technologies: (Azure Blob Storage, Azure Queue Storage, Azure Table Storage, Clean Architecture, SOLID, Repository Pattern, Factory Pattern, NuGet Client SDK)
    
-- **Links:** [Backend](https://smartcorehubapi-grajbyfdaggxefgj.brazilsouth-01.azurewebsites.net)) |  [Frontend](ttps://smartcorehubui-gwc0esckdjg9f6fn.brazilsouth-01.azurewebsites.net)  
+- **Links:** [Backend](https://smartcorehubapi-grajbyfdaggxefgj.brazilsouth-01.azurewebsites.net) | [Frontend](https://smartcorehubui-gwc0esckdjg9f6fn.brazilsouth-01.azurewebsites.net)  
 - **Source Code:** [Backend / Frontend](https://lionscorp.visualstudio.com/_git/SmartCoreHub) 
 - **SonarCloud:**  
-- **DevOps Pipeline:** [Azure](https://lionscorp.visualstudio.com/SmartCoreHub/_build)
-- 
-## 📊 Statistics 
+- **DevOps Pipeline:** [Azure](https://lionscorp.visualstudio.com/SmartCoreHub/_build
 
+
+## 📊 Statistics 
 
 <a href="https://github.com/LeoneRocha"><img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=LeoneRocha&show_icons=true&theme=dark"></a>
 <a href="https://github.com/LeoneRocha"><img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoneRocha&layout=compact&theme=dark"></a>
