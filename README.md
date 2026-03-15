@@ -91,7 +91,7 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 - **Links:** [Backend](https://smartcorehubapi-grajbyfdaggxefgj.brazilsouth-01.azurewebsites.net) | [Frontend](https://smartcorehubui-gwc0esckdjg9f6fn.brazilsouth-01.azurewebsites.net)  
 - **Source Code:** [Backend / Frontend](https://lionscorp.visualstudio.com/_git/SmartCoreHub) 
 - **SonarCloud:**  
-- **DevOps Pipeline:** [Azure](https://lionscorp.visualstudio.com/SmartCoreHub/_build
+- **DevOps Pipeline:** [Azure](https://lionscorp.visualstudio.com/SmartCoreHub/_build)
 
 
 ## 📊 Statistics 
