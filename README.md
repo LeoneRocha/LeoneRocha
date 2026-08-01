@@ -6,7 +6,7 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 
 ## 🛠️ Technical Skills
 
-- **Development:**  C#, VB.NET, .NET 8, ASP.NET (Webform, MVC), Web API (REST), Web Services (ASMX, WCF), JSON, XML, ORMs (Entity Framework, Dapper), ADO.NET, Windows Services.
+- **Development:**  C#, VB.NET, .NET 10, ASP.NET (Webform, MVC), Web API (REST), Web Services (ASMX, WCF), JSON, XML, ORMs (Entity Framework, Dapper), ADO.NET, Windows Services.
 - **Database:** SQL Server, MySQL, ANSI SQL.
 - **Frontend:** HTML, JavaScript, CSS, Bootstrap, Angular, React, TypeScript, jQuery, AJAX.
 - **Testing:** Unit Test (MSTest, NUnit, Moq), TDD.
@@ -56,7 +56,7 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 ### ⚙️Lab 3 | Smart Core Hub
 
 - **About:** A centralized hub project for reusable features and modular code, designed with a clean, extensible, and scalable architecture. The proposal is to consolidate reusable modules exposed through REST APIs and SDK/NuGet packages, starting with language and internationalization capabilities and evolving into new modules such as scheduling, payment systems, AI integrations, and other cross-application services.
-- **Technical:** Frontend: (Angular, TypeScript, Angular Material) | Backend: (C#, .NET 8, ASP.NET Core, Entity Framework Core, JWT, Swagger) | DevOps Tools: (Azure DevOps, Docker, Docker Compose, DevContainers) | Database: (MySQL, prepared for PostgreSQL and SQL Server support) | Other Technologies: (Azure Blob Storage, Azure Queue Storage, Azure Table Storage, Clean Architecture, SOLID, Repository Pattern, Factory Pattern, NuGet Client SDK)
+- **Technical:** Frontend: (Angular, TypeScript, Angular Material) | Backend: (C#, .NET 10, ASP.NET Core, Entity Framework Core, JWT, Swagger) | DevOps Tools: (Azure DevOps, Docker, Docker Compose, DevContainers) | Database: (MySQL, prepared for PostgreSQL and SQL Server support) | Other Technologies: (Azure Blob Storage, Azure Queue Storage, Azure Table Storage, Clean Architecture, SOLID, Repository Pattern, Factory Pattern, NuGet Client SDK)
    
 - **Links:** [Backend](https://smartcorehubapi-grajbyfdaggxefgj.brazilsouth-01.azurewebsites.net) | [Frontend](https://smartcorehubui-gwc0esckdjg9f6fn.brazilsouth-01.azurewebsites.net)  
 - **Source Code:** [Backend / Frontend](https://lionscorp.visualstudio.com/_git/SmartCoreHub) 
