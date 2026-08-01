@@ -39,7 +39,7 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 ### ⚙️ Lab 1 | Smart Digital Psico
 
 - **About:** Psychology Patient Registry. Digital medical record
-- **Technical:** FrontEnd: (TypeScript, Angular, Node.js, Bootstrap), Backend: (C#, .Net Core 8 , Entity Framework Core, MySql/SQL Server, Swagger)
+- **Technical:** FrontEnd: (TypeScript, Angular, Node.js, Bootstrap), Backend: (C#, .NET 10 , Entity Framework Core, MySql/SQL Server, Swagger)
 - **Links:** [Backend](https://smartdigitalpsicoapi.azurewebsites.net/swagger/index.html) , [FrontEnd](https://smartdigitalpsicoui.azurewebsites.net/)
 - **Source:** [Backend](https://github.com/LeoneRocha/SmartDigitalPsicoAPI) , [FrontEnd](https://github.com/LeoneRocha/SmartDigitalPsicoUIDashboard)
 - **DevOps:** [Azure](https://lionscorp.visualstudio.com/SMARTDIGITALPSICO) 
@@ -47,7 +47,7 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 ### ⚙️ Lab 2 | Hotel Wise
 
 - **About:** A pilot project showcasing the concept of AI integration both for semantic search and customer support via chatbot. The system manages hotel registration, rooms, availability, and pricing, leveraging AI technologies such as Semantic Search Kernel and Mistral Inference, Qdrant for enhanced search capabilities, and payment API integration.
-- **Technical:** Frontend: (React, Vite, Bootstrap, TypeScript,  Node.js, Nginx Server) | Backend: (C#, .Net Core 8 , Entity Framework Core, MySql, Swagger) | DevOps Tools: GitHub, Azure DevOps, SonarCloud, Docker Hub, Azure Cloud | Testing: JEST | Other Technologies: Qdrant, Mistral Inference
+- **Technical:** Frontend: (React, Vite, Bootstrap, TypeScript,  Node.js, Nginx Server) | Backend: (C#, .NET 10 , Entity Framework Core, MySql, Swagger) | DevOps Tools: GitHub, Azure DevOps, SonarCloud, Docker Hub, Azure Cloud | Testing: JEST | Other Technologies: Qdrant, Mistral Inference
 - **Links:** [Backend](https://hotelwiseapi.azurewebsites.net/swagger/index.html) |  [Frontend](https://hotelwiseui.azurewebsites.net/)  
 - **Source Code:** [Backend](https://github.com/LeoneRocha/HotelWiseAPI) | [Frontend](https://github.com/LeoneRocha/HotelWiseUI) 
 - **SonarCloud:** [Backend](https://sonarcloud.io/summary/new_code?id=lionscorp_hotelwiseapi&branch=master) | [Frontend](https://sonarcloud.io/summary/new_code?id=lionscorp_hotelwiseui&branch=master) 
