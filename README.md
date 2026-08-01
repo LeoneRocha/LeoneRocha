@@ -6,7 +6,7 @@ Developer with considerable experience in Microsoft technologies, .NET, database
 
 ## 🛠️ Technical Skills
 
-- **Development:**  C#, VB.NET, .NET 10, ASP.NET (Webform, MVC), Web API (REST), Web Services (ASMX, WCF), JSON, XML, ORMs (Entity Framework, Dapper), ADO.NET, Windows Services.
+- **Development:**  C#, VB.NET, .NET, ASP.NET (Webform, MVC), Web API (REST), Web Services (ASMX, WCF), JSON, XML, ORMs (Entity Framework, Dapper), ADO.NET, Windows Services.
 - **Database:** SQL Server, MySQL, ANSI SQL.
 - **Frontend:** HTML, JavaScript, CSS, Bootstrap, Angular, React, TypeScript, jQuery, AJAX.
 - **Testing:** Unit Test (MSTest, NUnit, Moq), TDD.
